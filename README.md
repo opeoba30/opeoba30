@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @opeoba30
 - 👀 I’m interested in Devops Engineer
 - 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on all Devops Engineer and Associates 
+- 💞️ I’m looking to collaborate/learn on all Devops Tools and Associates 
 - 📫 How to reach me email: paulobamakinwa@gmail.com
 
 <!---
